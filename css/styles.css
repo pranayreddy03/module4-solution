@@ -1,14 +1,12 @@
-button
-{
-    color: white;
-}
+
 .lst
 {
     position: absolute;
-    left: 50px;
-    top: 20px;
+    left:100px;
+    top: 50px;
 }
 a
 {
     text-decoration: none;
+    color: white;
 }
